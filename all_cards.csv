@@ -1,0 +1,70 @@
+color,number,night,clue,ressources,requirements,reward_type,reward_value
+red,1,False,False,"['animal', 'stone']","[]","fix", 0
+blue,2,False,False,"['stone', 'stone']","[]","fix", 0
+green,3,False,False,"[]","[]","fix", 4
+red,4,False,False,"['plant', 'stone']","[]","fix", 0
+green,5,False,False,"['animal']","[]","fix", 2
+blue,6,False,True,"['stone']","[]","fix", 0
+red,7,False,False,"['animal', 'plant']","[]","fix", 0
+green,8,False,True,"['animal']","[]","fix", 0
+blue,9,False,False,"[]","[]","fix", 5
+red,10,False,False,"[]","[]","night", 3
+green,11,False,False,"[]","[]","clue", 2
+yellow,12,False,True,"['plant']","[]","fix", 0
+blue,13,False,False,"[]","[]","stone", 2
+red,14,False,False,"['plant']","[]","night", 2
+green,15,False,True,"[]","[]","animal", 2
+red,16,False,False,"['animal']","[]","animal", 2
+blue,17,False,False,"['stone']","['animal', 'animal']","stone", 3
+green,18,False,False,"['animal']","[]","multi", 10
+red,19,False,False,"['plant']","[]","plant", 2
+green,20,True,True,"[]","['stone']","night", 2
+blue,21,True,False,"[]","['stone', 'stone']","fix", 8
+green,22,True,True,"[]","[]","clue", 1
+red,23,True,False,"['animal', 'stone']","[]","multi", 10
+blue,24,True,False,"['stone']","['animal']","night", 2
+yellow,25,True,False,"[]","[]","['yellow', 'green']", 1
+red,26,True,False,"['animal']","[]","plant", 3
+yellow,27,True,False,"[]","[]","['yellow', 'blue']", 1
+red,28,True,False,"['stone']","[]","animal", 3
+yellow,29,True,False,"['plant']","[]","plant", 2
+red,30,True,False,"['stone']","[]","stone", 2
+yellow,31,True,False,"[]","[]","['yellow', 'red']", 1
+red,32,True,False,"['animal', 'stone']","['stone','stone','stone']","fix", 7
+yellow,33,True,True,"[]","[]","plant", 3
+green,34,True,False,"['animal']","['stone','stone']","animal", 3
+yellow,35,True,False,"['animal']","[]","multi", 10
+red,36,True,False,"[]","['animal','animal']","plant", 4
+yellow,37,True,False,"[]","['plant']","night", 3
+green,38,True,False,"['stone']","['animal','plant']","clue", 3
+red,39,True,False,"['plant', 'stone']","['animal','animal']","fix", 9
+blue,40,True,False,"[]","['plant','animal','stone']","night", 3
+green,41,False,False,"['plant']","['animal','stone','stone']","night", 4
+yellow,42,False,False,"[]","['stone','animal']","['yellow','green']", 2
+blue,43,False,False,"['stone']","[]","multi", 10
+yellow,44,False,False,"[]","['stone','plant']","['yellow','blue']", 2
+green,45,False,False,"['stone']","['animal','animal','animal']","fix", 13
+blue,46,False,True,"[]","['stone','stone','animal']","fix", 10
+yellow,47,False,False,"[]","['plant','animal']","['yellow','red']", 2
+red,48,False,False,"['animal']","[]","stone", 3
+blue,49,False,True,"[]","['stone','stone','plant']","fix", 12
+yellow,50,False,False,"['stone']","['plant','plant']","green", 4
+blue,51,False,False,"['stone']","['stone','stone','stone','stone']","fix", 14
+red,52,False,False,"[]","['stone','stone','stone']","animal", 4
+yellow,53,False,False,"['animal']","['plant','plant']","red", 4
+green,54,False,False,"['animal']","['plant','plant']","clue", 4
+blue,55,False,True,"['plant']","['animal','plant','plant']","stone", 3
+yellow,56,False,False,"['plant']","['animal','animal','stone']","blue", 4
+red,57,False,False,"[]","['plant','plant','plant']","plant", 4
+green,58,False,True,"[]","['animal','animal','animal']","clue", 3
+yellow,59,False,True,"[]","['animal','animal','animal', 'stone']","['yellow','red']", 3
+blue,60,False,True,"[]","['stone','stone','animal','animal']","fix", 16
+green,61,False,False,"['plant']","['animal','animal','animal','animal']","fix", 17
+yellow,62,False,True,"[]","['plant','plant','plant']","['yellow','blue']", 3
+green,63,False,True,"[]","['animal','animal','plant']","fix", 15
+blue,64,False,True,"[]","['stone','stone','plant','plant']","fix", 18
+yellow,65,False,True,"[]","['plant','plant','plant']","['yellow','green']", 3
+blue,66,False,False,"[]","['stone','stone','stone','stone']","fix", 20
+green,67,False,True,"[]","['animal','animal','plant','plant']","fix", 19
+blue,68,False,False,"[]","['stone','stone','stone','stone','stone']","fix", 24
+
